@@ -1,4 +1,4 @@
-![nixos-wallpaper](https://user-images.githubusercontent.com/1666357/117036567-d8487100-ad05-11eb-9ca4-ed8f6b335218.png)
+![sigmapi](https://user-images.githubusercontent.com/1666357/117036921-383f1780-ad06-11eb-97c2-dc4550f8c361.jpeg)
 
 
 <!--
