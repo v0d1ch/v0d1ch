@@ -1,4 +1,5 @@
-### Yo 
+![nixos-wallpaper](https://user-images.githubusercontent.com/1666357/117036567-d8487100-ad05-11eb-9ca4-ed8f6b335218.png)
+
 
 <!--
 **v0d1ch/v0d1ch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
