@@ -18,3 +18,14 @@ Here are some ideas to get you started:
 -->
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=v0d1ch&count_private=true&show_icons=true&theme=synthwave)
+
+
+
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=v0d1ch&theme=blue-green)
+
+
+
+![Your Repository's Stats](https://contrib.rocks/image?repo=v0d1ch)
+
+
+![Profile View Counter](https://komarev.com/ghpvc/?username=v0d1ch)
